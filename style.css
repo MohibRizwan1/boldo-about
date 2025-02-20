@@ -4,6 +4,8 @@ body {
 
 .first-page {
   background-color: rgba(101, 228, 163, 1);
+  width: 1400px;
+  height: 473px;
 }
 
 header {

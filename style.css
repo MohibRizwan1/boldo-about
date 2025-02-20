@@ -16,20 +16,15 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 56px 100px 0 20px;
+  padding: 56px 60px 0 100px;
   font-family: 'Open Sans';
 }
 
 header .logo {
   display: flex;
-  font-weight: bold;
-  height: 24px;
-}
-
-header .logo img {
-  height: 30px;
+  width: 162px;
+  height: 41px;  
   margin-right: 8px;
-  margin-left: 85px;
 }
 
 header nav {
@@ -51,7 +46,7 @@ header nav li {
   text-decoration: none;
   color: rgb(10, 38, 64);
   font-weight: bold;
-  margin-right: 20px;
+  margin-right: 40px;
 }
 
 .stats-container {

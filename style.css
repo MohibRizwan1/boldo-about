@@ -3,6 +3,8 @@
    ================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap');
+
 
 /* ==================================
                 PAGE 1
@@ -77,3 +79,44 @@ header .button-log-in:hover {
 /* ==================================
                 PAGE 2
    ================================== */
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+}   
+
+.about {
+  margin-top: 93.5px;
+  margin-bottom: 0;
+  color: rgba(10, 38, 64, 1);
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.title {
+  width: 600px;
+  height: 144px;
+  font-family: Manrope;
+  font-weight: 400;
+  font-size: 48px;
+}
+
+.title p {
+  margin-top: 12px;
+}
+
+.subtitle {
+  margin-top: -140px;
+  margin-right: 145px; 
+  align-self: flex-end;
+  width: 455px;
+  height: 64px;
+  top: 244px;
+  left: 800px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}

@@ -163,4 +163,42 @@ header .button-log-in:hover {
   color: rgba(10, 38, 64, 1);
   text-align: left;
 }
+
+/* ==================================
+                PAGE 3
+   ================================== */
+   
+.story-section {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(10, 38, 64, 1);
+  padding: 120px 300px;
+  color: white; 
+}
+
+.story-title {
+  font-size: 20px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  color: white;
+  margin: 0;
+}
+
+.story-heading {
+  font-size: 48px;
+  width: 842px;
+  font-family: 'Manrope';
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 32px;
+}
+
+.story-text {
+  font-size: 20px;
+  width: 799px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  line-height: 28px;
+  margin: 0;
+}
    

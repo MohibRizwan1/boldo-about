@@ -76,10 +76,6 @@ header .button-log-in:hover {
   color: white;
 }
 
-/* ==================================
-                PAGE 2
-   ================================== */
-
 .hero-section {
   display: flex;
   flex-direction: column;
@@ -120,3 +116,51 @@ header .button-log-in:hover {
   font-size: 16px;
   line-height: 28px;
 }
+
+/* ==================================
+                PAGE 2
+   ================================== */
+  
+.numbers-section {
+  text-align: center;
+  padding: 94px 200px 120px 200px;
+}
+
+.section-title {
+  font-size: 20px;
+  font-family: 'Open Sans';
+  color: rgba(10, 38, 64, 1);
+  margin-bottom: 12px;
+}
+
+.section-heading {
+  font-size: 48px;
+  font-weight: 500;
+  font-family: 'Manrope';
+  color: rgba(10, 38, 64, 1);
+  margin: 0;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 141.5px;
+}
+
+.stat h3 {
+  font-size: 96px;
+  font-weight: 400;
+  font-family: 'Manrope';
+  color: rgba(10, 38, 64, 1);
+  margin-top: 84px;
+  margin-bottom: 5px;
+}
+
+.stat p {
+  width: 187px;
+  font-size: 24px;
+  font-family: 'Open Sans';
+  color: rgba(10, 38, 64, 1);
+  text-align: left;
+}
+   

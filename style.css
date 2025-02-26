@@ -231,3 +231,8 @@ header .button-log-in:hover {
   width: 799px;
   height: 110px;
 }  
+
+.team-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

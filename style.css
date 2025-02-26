@@ -201,4 +201,33 @@ header .button-log-in:hover {
   line-height: 28px;
   margin: 0;
 }
-   
+
+/*=================================
+                PAGE 4
+  ==================================*/  
+
+.team-header {
+  margin: 124px 300px 56px 300px;
+}
+
+.team-header p {
+  color: rgba(119, 119, 119, 1);
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  margin: 0;
+}
+
+.work {
+  font-family: 'Manrope';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;  
+  margin: 12px 0 22.5px 0;
+}
+
+.investor {
+  width: 799px;
+  height: 110px;
+}  

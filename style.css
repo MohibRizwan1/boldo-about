@@ -244,6 +244,7 @@ header .button-log-in:hover {
   font-weight: 400;
   font-size: 28px;
   line-height: 48px;
+  margin-bottom: 12px;
 }
 
 .team-grid1 p {
@@ -252,6 +253,7 @@ header .button-log-in:hover {
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
+  margin: 0;
 }
 
 .team-grid2 {
